@@ -1,6 +1,6 @@
 # rabbitmq-queue-explicit-ack
 
-Learn SpringBoot RabbitMQ server, Non-SpringBoot RabbitMQ client, direct messaging with explicit acknowledgement </br>
+Learn SpringBoot RabbitMQ server, Non-SpringBoot RabbitMQ client, direct messaging with explicit acknowledgement, password encryption/decryption </br>
 
 # Prerequisite
 
