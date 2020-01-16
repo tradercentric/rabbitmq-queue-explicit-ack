@@ -4,7 +4,7 @@ Learn SpringBoot RabbitMQ server, Non-SpringBoot RabbitMQ client, direct messagi
 
 # Prerequisite
 
-Need jdk 1.8 installed </br>
+Need jdk 1.8 or better installed </br>
 Need Maven 3.x installed </br>
 Need to installed and start RabbitMQ server </br>
 
