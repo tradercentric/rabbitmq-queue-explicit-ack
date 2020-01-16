@@ -1,6 +1,6 @@
 # rabbitmq-queue-explicit-ack
 
-Learn RabbitMQ, direct messaging, explicit acknowledgement of message </br>
+Learn SpringBoot, RabbitMQ, direct messaging, explicit acknowledgement of message </br>
 
 # Prerequisite
 
